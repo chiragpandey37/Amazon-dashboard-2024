@@ -65,5 +65,5 @@ The dashboard can be customized based on your specific business needs. You can:
 - Adjust filters to focus on new data dimensions.
 
 
-![amazon dashboard 2024](https://github.com/user-attachments/assets/39a79135-2a20-4205-8872-596b4003fc8d)
+
 
