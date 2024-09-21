@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **Amazon Dashboard 2024** is an interactive Excel-based analytics dashboard designed to provide valuable insights into Amazon's business performance and operational metrics. This dashboard includes key visualizations and data-driven analyses of factors like sales, customer trends, product performance, and shipment efficiency.
+The **Amazon Dashboard 2024** is an interactive Excel-based analytics dashboard designed to provide valuable insights into Amazon's business performance and operational metrics. This dashboard includes key visualizations and data-driven analyses of factors like sales, customer trends, product performance.
 
 The goal of this project is to enable stakeholders to monitor, analyze, and optimize various aspects of Amazon's operations through a user-friendly, visual interface. This dashboard is especially useful for management, marketing teams, and analysts looking to make data-driven decisions.
 
@@ -12,8 +12,6 @@ The goal of this project is to enable stakeholders to monitor, analyze, and opti
 
 - **Interactive Visualizations:** Leverage Excel features like slicers, filters, and charts to provide dynamic views of the data.
 - **Sales Performance Tracking:** Analyze sales across different time periods, product categories, and regions.
-- **Customer Behavior Insights:** Identify trends in customer purchasing patterns, including popular products and high-value customers.
-- **Shipment and Delivery Analysis:** Monitor delivery times and shipment efficiency to optimize logistics and improve customer satisfaction.
 - **Financial Metrics:** Visualize revenue, profit margins, and other financial KPIs (Key Performance Indicators).
 - **Customizable Views:** Modify slicers, filters, and pivot tables to explore specific segments of the data.
 
@@ -52,10 +50,6 @@ To use the Amazon Dashboard, you’ll need:
 3. **Customer Insights:**
    - View customer purchasing trends and behaviors.
    - Use the dashboard to segment customers by purchase volume and frequency.
-
-4. **Shipment Performance:**
-   - Monitor delivery times and optimize shipment efficiency.
-   - Analyze logistics data to improve delivery performance and customer satisfaction.
 
 ## Customization
 
